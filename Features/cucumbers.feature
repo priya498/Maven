@@ -9,7 +9,7 @@ Scenario Outline: for data driven testing we have to give scenario outline
 Given   user should be on facebook log-in page.
 When    user enter the valid "<email> "and "<password>"
 And     click on log-in button
-Then    user should be able to log-in sucessfully and verify result
+Then    user should be able to log-in sucessfully
 Examples:
  
 | email | password |
