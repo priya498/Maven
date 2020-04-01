@@ -18,6 +18,5 @@ git push -u origin master "small window pop-up for username and password"
 
 git pull "pull new files from master branch to local system"
 
-git stash "local changes to save"
 
-git stash pop
+
