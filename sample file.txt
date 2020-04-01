@@ -1,1 +1,19 @@
-git commands are in the note pad
+https://github.com/priya498/Maven.git
+
+
+git init "initializing git empty repository"
+
+ git remote add origin "path of github" to establish connection b/w git and github repositories
+
+git status "it verify status of the files whether it's tracked or untracked"
+
+git add -A "add to staging area"
+
+git config --global user.name "priya498"
+git config --global user.email"sahasra50@gmail.com"
+
+git commit -m "comit message mandatory"
+
+git push -u origin master "small window pop-up for username and password"
+
+git pull "pull new files from master branch to local system"
