@@ -21,9 +21,9 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
         <version>2.18.1</version>
         <configuration>
         <suiteXmlFiles>
-        <suiteXmlFile>cucumbers.feature</suiteXmlFile>
-        </suiteXmlFiles>
         
+        <suitexmlfile> cucumbers.feature</suitexmlfile>
+        </suiteXmlFiles>
         </configuration>
   
   </plugin>
