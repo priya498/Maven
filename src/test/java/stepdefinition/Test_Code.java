@@ -33,10 +33,10 @@ public class Test_Code {
 	  driver.findElement(By.id("pass")).sendKeys(password);
 	  
 	}
-
+	
 	@And("^click on log-in button$")
 	public void click_on_ok_button() throws Throwable {
-		driver.findElement(By.xpath("//*[@id=\"u_0_2\"]")).submit();
+		driver.findElement(By.xpath("//*[@id=\"u_0_b\"]")).submit();
 	    
 	}
 
