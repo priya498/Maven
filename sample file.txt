@@ -17,3 +17,22 @@ git commit -m "comit message mandatory"
 git push -u origin master "small window pop-up for username and password"
 
 git pull "pull new files from master branch to local system"
+
+<<<<<<< HEAD
+git pull --rebase
+=======
+git stash
+
+git stash pop
+
+git --rebase
+>>>>>>> f1f132d91f53dfaac65907257fa1470940fdceb5
+
+//someone has comitted that repository so we need to
+
+git pull
+
+git push
+
+git merge
+ 
